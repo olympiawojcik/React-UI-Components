@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+
+/* .cardContainer {
+  /* border: 6px dashed pink; */
+/* } */
+
+.card {
+  width: 90%;
+  margin-left: 50px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.cardBanner {
+  width: 100%;
+}

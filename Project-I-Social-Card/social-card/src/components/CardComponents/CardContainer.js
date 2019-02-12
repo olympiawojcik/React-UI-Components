@@ -7,8 +7,10 @@ import CardContent from "./CardContent";
 function CardContainer() {
   return (
     <div className="cardContainer">
-      <CardBanner />
-      <CardContent />
+      <div className="card">
+        <CardBanner />
+        <CardContent />
+      </div>
     </div>
   );
 }
