@@ -25,7 +25,7 @@ const App = () => {
         </div>
         <div className="operators-container">
           <OperatorButton
-            text={"\u2212"}
+            text={"\u00F7"}
             operatorButtonStyle="operatorButtonStyle"
           />
           <OperatorButton
