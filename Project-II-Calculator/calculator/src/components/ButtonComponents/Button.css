@@ -5,3 +5,11 @@
   width: 93px;
   height: 81px;
 }
+
+.actionButtonStyle {
+  border: 1px solid #a9a9a9;
+  font-size: 40px;
+  font-weight: bold;
+  width: 286px;
+  height: 82px;
+}
