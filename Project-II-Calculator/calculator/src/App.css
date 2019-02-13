@@ -1,0 +1,16 @@
+.calculator-container {
+  border: 1px solid #a9a9a9;
+  width: 454px;
+  height: 597px;
+}
+
+.input-container {
+  display: flex;
+}
+.numbers-container {
+  width: 74%;
+}
+
+.operators-container {
+  width: 26%;
+}
